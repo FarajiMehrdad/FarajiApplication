@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_name_hint">Enter yout name to begin</string>
+    <string name="start_story">Start your advanture</string>
+    <string name="story_page0"> you defintly land your near where the stress signal oreiented this is my story about this coure of android in vesta camp , what happen here i dont know
+    but this is exactly here in aut </string>
+    <string name="story_page1"> you defintly land your near where the stress signal oreiented this is my story about this coure of android in vesta camp , what happen here i dont know
+    but this is exactly here in aut </string>
+    <string name="story_page2"> you defintly land your near where the stress signal oreiented this is my story about this coure of android in vesta camp , what happen here i dont know
+    but this is exactly here in aut </string>
+    <string name="story_page3"> you defintly land your near where the stress signal oreiented this is my story about this coure of android in vesta camp , what happen here i dont know
+    but this is exactly here in aut </string>
+    <string name="story_page4"> you defintly land your near where the stress signal oreiented this is my story about this coure of android in vesta camp , what happen here i dont know
+    but this is exactly here in aut </string>
+    <string name="story_page5"> you defintly land your near where the stress signal oreiented this is my story about this coure of android in vesta camp , what happen here i dont know
+    but this is exactly here in aut </string>
+    <string name="story_page6"> you defintly land your near where the stress signal oreiented this is my story about this coure of android in vesta camp , what happen here i dont know
+    but this is exactly here in aut </string>
+</resources>

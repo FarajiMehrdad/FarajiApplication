@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.MainActivity">
+
+    <ImageView
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/main_title"
+        android:scaleType="fitXY"
+        android:id="@+id/story_cover_image"
+        android:layout_above="@+id/story_name_edit_text"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/start_advanture_btn"
+        android:hint="@string/enter_name_hint"
+        android:layout_margin="@dimen/margin_story_edit_text"
+        android:id="@+id/story_name_edit_text"
+        />
+    
+    <Button
+        android:id="@+id/start_advanture_btn"
+        android:text="@string/start_story"
+        style="@style/bottom_button"
+        />
+
+
+
+
+</RelativeLayout>
